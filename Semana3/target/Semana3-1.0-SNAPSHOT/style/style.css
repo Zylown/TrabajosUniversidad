@@ -1,0 +1,35 @@
+body {
+    text-align: end;
+}
+
+h1{
+    color: orange;
+}
+
+form{
+    margin-right: 43%;
+}
+
+input {
+    height: 15px;
+    width: 90px;
+    margin-left: 50px;
+}
+
+p {
+    margin-bottom: 20px;
+}
+
+
+.borrar {
+    height: 30px;
+    width: 65px;
+    margin-right: 43%;
+}
+
+
+.calcular {
+    height: 30px;
+    width: 65px;
+}
+
